@@ -1,0 +1,1088 @@
+2019-11-22 13:59:17 INFO  LoggerInstance:11 - Test is Starting...
+2019-11-22 13:59:23 INFO  LoggerInstance:21 - Driver Initialized
+2019-11-22 14:09:06 INFO  Log:11 - Test is Starting...
+2019-11-22 14:09:12 INFO  Log:21 - Driver Initialized
+2019-11-22 14:17:38 INFO  Log:11 - Test is Starting...
+2019-11-22 14:17:44 INFO  Log:21 - Driver Initialized
+2019-11-22 14:36:55 INFO  Log:11 - Test is Starting...
+2019-11-22 14:41:49 INFO  Log:11 - Test is Starting...
+2019-11-22 14:44:07 INFO  Log:11 - Test is Starting...
+2019-11-22 14:44:27 INFO  Log:11 - Test is Starting...
+2019-11-22 14:50:56 INFO  Log:11 - Test is Starting...
+2019-11-22 14:51:27 INFO  Log:11 - Test is Starting...
+2019-11-22 14:52:32 INFO  Log:11 - Test is Starting...
+2019-11-22 15:11:23 INFO  Log:11 - Test is Starting...
+2019-11-22 15:15:26 INFO  Log:11 - Test is Starting...
+2019-11-22 17:09:54 INFO  Log:11 - Test is Starting...
+2019-11-22 18:24:30 INFO  Log:11 - Test is Starting...
+2019-11-22 19:25:30 INFO  Log:11 - Test is Starting...
+2019-11-22 20:12:00 INFO  Log:11 - Test is Starting...
+2019-11-22 20:18:47 INFO  Log:11 - Test is Starting...
+2019-11-22 20:21:14 INFO  Log:11 - Test is Starting...
+2019-11-22 20:23:35 INFO  Log:11 - Test is Starting...
+2019-11-22 20:25:28 INFO  Log:11 - Test is Starting...
+2019-11-22 21:33:12 INFO  Log:11 - Test is Starting...
+2019-11-22 21:34:22 INFO  Log:11 - Test is Starting...
+2019-11-22 21:42:13 INFO  Log:11 - Test is Starting...
+2019-11-22 21:43:51 INFO  Log:11 - Test is Starting...
+2019-11-22 21:53:52 INFO  Log:11 - Test is Starting...
+2019-11-22 21:59:04 INFO  Log:11 - Test is Starting...
+2019-11-22 22:03:25 INFO  Log:11 - Test is Starting...
+2019-11-22 22:04:28 INFO  Log:11 - Test is Starting...
+2019-11-22 22:07:13 INFO  Log:11 - Test is Starting...
+2019-11-22 22:08:08 INFO  Log:11 - Test is Starting...
+2019-11-22 22:13:19 INFO  Log:11 - Test is Starting...
+2019-11-22 22:15:03 INFO  Log:11 - Test is Starting...
+2019-11-22 22:53:59 INFO  Log:11 - Test is Starting...
+2019-11-22 22:55:01 INFO  Log:11 - Test is Starting...
+2019-11-22 22:58:19 INFO  Log:11 - Test is Starting...
+2019-11-22 23:00:25 INFO  Log:11 - Test is Starting...
+2019-11-23 00:41:59 INFO  Log:11 - Test is Starting...
+2019-11-23 00:42:06 INFO  Log:21 - Driver Intialized
+2019-11-23 00:42:10 INFO  Log:21 - Web URL Launched
+2019-11-23 00:42:11 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 00:42:13 INFO  Log:21 - Check Rates Selected
+2019-11-23 00:42:20 INFO  Log:21 - Student opted
+2019-11-23 00:42:21 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 00:42:21 INFO  Log:21 - Not checked rates with other
+2019-11-23 00:46:55 INFO  Log:11 - Test is Starting...
+2019-11-23 00:47:01 INFO  Log:21 - Driver Intialized
+2019-11-23 00:47:05 INFO  Log:21 - Web URL Launched
+2019-11-23 00:47:06 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 00:47:08 INFO  Log:21 - Check Rates Selected
+2019-11-23 00:47:13 INFO  Log:21 - Student opted
+2019-11-23 00:47:14 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 00:47:14 INFO  Log:21 - Not checked rates with other
+2019-11-23 00:52:39 INFO  Log:11 - Test is Starting...
+2019-11-23 00:53:17 INFO  Log:11 - Test is Starting...
+2019-11-23 00:53:24 INFO  Log:21 - Driver Intialized
+2019-11-23 00:53:28 INFO  Log:21 - Web URL Launched
+2019-11-23 00:53:28 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 00:53:31 INFO  Log:21 - Check Rates Selected
+2019-11-23 00:53:35 INFO  Log:21 - Student opted
+2019-11-23 00:53:36 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 00:53:36 INFO  Log:21 - Not checked rates with other
+2019-11-23 00:53:41 INFO  Log:21 - Institution Name Selected
+2019-11-23 00:58:30 INFO  Log:11 - Test is Starting...
+2019-11-23 00:58:37 INFO  Log:21 - Driver Intialized
+2019-11-23 00:58:40 INFO  Log:21 - Web URL Launched
+2019-11-23 00:58:41 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 00:58:43 INFO  Log:21 - Check Rates Selected
+2019-11-23 00:58:48 INFO  Log:21 - Student opted
+2019-11-23 00:58:49 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 00:58:49 INFO  Log:21 - Not checked rates with other
+2019-11-23 00:58:54 INFO  Log:21 - Institution Name Selected
+2019-11-23 01:00:03 INFO  Log:11 - Test is Starting...
+2019-11-23 01:00:09 INFO  Log:21 - Driver Intialized
+2019-11-23 01:00:17 INFO  Log:21 - Web URL Launched
+2019-11-23 01:00:17 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 01:00:20 INFO  Log:21 - Check Rates Selected
+2019-11-23 01:00:24 INFO  Log:21 - Student opted
+2019-11-23 01:00:24 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 01:00:24 INFO  Log:21 - Not checked rates with other
+2019-11-23 01:00:30 INFO  Log:21 - Institution Name Selected
+2019-11-23 01:02:36 INFO  Log:11 - Test is Starting...
+2019-11-23 01:02:43 INFO  Log:21 - Driver Intialized
+2019-11-23 01:02:47 INFO  Log:21 - Web URL Launched
+2019-11-23 01:02:48 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 01:02:50 INFO  Log:21 - Check Rates Selected
+2019-11-23 01:02:57 INFO  Log:21 - Student opted
+2019-11-23 01:02:57 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 01:02:58 INFO  Log:21 - Not checked rates with other
+2019-11-23 01:03:03 INFO  Log:21 - Institution Name Selected
+2019-11-23 01:27:02 INFO  Log:11 - Test is Starting...
+2019-11-23 01:27:09 INFO  Log:21 - Driver Intialized
+2019-11-23 01:27:13 INFO  Log:21 - Web URL Launched
+2019-11-23 01:27:14 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 01:27:17 INFO  Log:21 - Check Rates Selected
+2019-11-23 01:27:25 INFO  Log:21 - Student opted
+2019-11-23 01:27:25 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 01:27:25 INFO  Log:21 - Not checked rates with other
+2019-11-23 01:27:31 INFO  Log:21 - Institution Name Selected
+2019-11-23 01:31:14 INFO  Log:11 - Test is Starting...
+2019-11-23 01:31:20 INFO  Log:21 - Driver Intialized
+2019-11-23 01:31:25 INFO  Log:21 - Web URL Launched
+2019-11-23 01:31:25 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 01:31:27 INFO  Log:21 - Check Rates Selected
+2019-11-23 01:31:34 INFO  Log:21 - Student opted
+2019-11-23 01:31:34 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 01:31:35 INFO  Log:21 - Not checked rates with other
+2019-11-23 01:31:40 INFO  Log:21 - Institution Name Selected
+2019-11-23 01:41:59 INFO  Log:11 - Test is Starting...
+2019-11-23 01:42:05 INFO  Log:21 - Driver Intialized
+2019-11-23 01:42:05 INFO  Log:11 - Test is Starting...
+2019-11-23 01:42:11 INFO  Log:21 - Driver Intialized
+2019-11-23 01:42:15 INFO  Log:21 - Web URL Launched
+2019-11-23 01:42:16 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 01:42:19 INFO  Log:21 - Check Rates Selected
+2019-11-23 01:42:29 INFO  Log:21 - Student opted
+2019-11-23 01:42:30 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 01:42:30 INFO  Log:21 - Not checked rates with other
+2019-11-23 01:42:35 INFO  Log:21 - Institution Name Selected
+2019-11-23 01:43:06 INFO  Log:11 - Test is Starting...
+2019-11-23 01:43:11 INFO  Log:21 - Driver Intialized
+2019-11-23 01:43:12 INFO  Log:11 - Test is Starting...
+2019-11-23 01:43:18 INFO  Log:21 - Driver Intialized
+2019-11-23 01:43:18 INFO  Log:21 - Screenshot captured for Failed Scenario
+2019-11-23 01:43:18 INFO  Log:16 - Test is Ending...
+2019-11-23 01:46:10 INFO  Log:11 - Test is Starting...
+2019-11-23 01:46:18 INFO  Log:21 - Driver Intialized
+2019-11-23 01:46:18 INFO  Log:11 - Test is Starting...
+2019-11-23 01:46:23 INFO  Log:21 - Driver Intialized
+2019-11-23 01:46:28 INFO  Log:21 - Web URL Launched
+2019-11-23 01:46:28 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 01:46:30 INFO  Log:21 - Check Rates Selected
+2019-11-23 01:46:41 INFO  Log:21 - Student opted
+2019-11-23 01:46:42 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 01:46:42 INFO  Log:21 - Not checked rates with other
+2019-11-23 01:46:47 INFO  Log:21 - Institution Name Selected
+2019-11-23 01:47:18 INFO  Log:11 - Test is Starting...
+2019-11-23 01:47:23 INFO  Log:21 - Driver Intialized
+2019-11-23 01:47:24 INFO  Log:11 - Test is Starting...
+2019-11-23 01:47:29 INFO  Log:21 - Driver Intialized
+2019-11-23 01:47:30 INFO  Log:21 - Screenshot captured for Failed Scenario
+2019-11-23 01:47:30 INFO  Log:16 - Test is Ending...
+2019-11-23 01:50:00 INFO  Log:11 - Test is Starting...
+2019-11-23 01:50:06 INFO  Log:21 - Driver Intialized
+2019-11-23 01:50:06 INFO  Log:11 - Test is Starting...
+2019-11-23 01:50:12 INFO  Log:21 - Driver Intialized
+2019-11-23 01:50:18 INFO  Log:21 - Web URL Launched
+2019-11-23 01:50:18 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 01:50:20 INFO  Log:21 - Check Rates Selected
+2019-11-23 01:50:26 INFO  Log:21 - Student opted
+2019-11-23 01:50:27 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 01:50:27 INFO  Log:21 - Not checked rates with other
+2019-11-23 01:50:32 INFO  Log:21 - Institution Name Selected
+2019-11-23 01:51:03 INFO  Log:21 - Screenshot captured for Failed Scenario
+2019-11-23 01:51:03 INFO  Log:16 - Test is Ending...
+2019-11-23 01:53:41 INFO  Log:11 - Test is Starting...
+2019-11-23 01:53:47 INFO  Log:21 - Driver Intialized
+2019-11-23 02:03:59 INFO  Log:11 - Test is Starting...
+2019-11-23 02:04:05 INFO  Log:21 - Driver Intialized
+2019-11-23 02:04:10 INFO  Log:21 - Web URL Launched
+2019-11-23 02:04:10 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:04:12 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:04:20 INFO  Log:21 - Student opted
+2019-11-23 02:04:20 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:04:20 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:04:35 INFO  Log:16 - Test is Ending...
+2019-11-23 02:04:45 INFO  Log:11 - Test is Starting...
+2019-11-23 02:04:51 INFO  Log:21 - Driver Intialized
+2019-11-23 02:04:56 INFO  Log:21 - Web URL Launched
+2019-11-23 02:04:56 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:04:59 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:05:05 INFO  Log:21 - Student opted
+2019-11-23 02:05:05 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:05:05 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:05:11 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:05:42 INFO  Log:21 - Screenshot captured for Failed Scenario
+2019-11-23 02:05:43 INFO  Log:16 - Test is Ending...
+2019-11-23 02:43:17 INFO  Log:11 - Test is Starting...
+2019-11-23 02:43:23 INFO  Log:21 - Driver Intialized
+2019-11-23 02:43:28 INFO  Log:21 - Web URL Launched
+2019-11-23 02:43:28 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:43:30 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:43:36 INFO  Log:21 - Student opted
+2019-11-23 02:43:36 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:43:36 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:43:42 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:43:42 INFO  Log:21 - Degree selected
+2019-11-23 02:43:42 INFO  Log:21 - Year Of Study Selected
+2019-11-23 02:43:43 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 02:43:43 INFO  Log:21 - Completion Date submitted
+2019-11-23 02:43:43 INFO  Log:21 - Loan Amount submitted
+2019-11-23 02:43:44 INFO  Log:21 - Employment Income submitted
+2019-11-23 02:43:45 INFO  Log:21 - Other Income Provided
+2019-11-23 02:43:45 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 02:43:45 INFO  Log:21 - Family Income submitted
+2019-11-23 02:43:46 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 02:43:46 INFO  Log:21 - Housing Payment submitted
+2019-11-23 02:43:46 INFO  Log:21 - Citizenship status selected
+2019-11-23 02:43:48 INFO  Log:21 - Profile Details submitted
+2019-11-23 02:43:48 INFO  Log:21 - Date of Birth submitted
+2019-11-23 02:43:48 INFO  Log:21 - Phone Number Submitted
+2019-11-23 02:43:50 INFO  Log:21 - Address Details Submitted
+2019-11-23 02:43:50 INFO  Log:21 - Email validated
+2019-11-23 02:43:52 INFO  Log:21 - Password validated
+2019-11-23 02:43:52 INFO  Log:11 - Test is Starting...
+2019-11-23 02:43:52 INFO  Log:21 - Web URL Launched
+2019-11-23 02:43:56 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:43:59 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:44:03 INFO  Log:21 - Student opted
+2019-11-23 02:44:03 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:44:03 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:44:09 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:44:09 INFO  Log:21 - Degree selected
+2019-11-23 02:44:09 INFO  Log:21 - Year Of Study Selected
+2019-11-23 02:44:10 INFO  Log:21 - Completion Date submitted
+2019-11-23 02:44:10 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 02:44:10 INFO  Log:21 - Loan Amount submitted
+2019-11-23 02:44:10 INFO  Log:11 - Test is Starting...
+2019-11-23 02:44:10 INFO  Log:21 - Web URL Launched
+2019-11-23 02:44:14 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:44:16 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:44:20 INFO  Log:21 - Student opted
+2019-11-23 02:44:20 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:44:20 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:44:25 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:44:26 INFO  Log:21 - Degree selected
+2019-11-23 02:44:26 INFO  Log:21 - Year Of Study Selected
+2019-11-23 02:44:26 INFO  Log:21 - Completion Date submitted
+2019-11-23 02:44:27 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 02:44:27 INFO  Log:21 - Loan Amount submitted
+2019-11-23 02:44:27 INFO  Log:11 - Test is Starting...
+2019-11-23 02:44:27 INFO  Log:21 - Web URL Launched
+2019-11-23 02:44:30 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:44:33 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:44:36 INFO  Log:21 - Student opted
+2019-11-23 02:44:37 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:44:37 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:44:42 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:44:42 INFO  Log:21 - Degree selected
+2019-11-23 02:44:43 INFO  Log:21 - Year Of Study Selected
+2019-11-23 02:44:43 INFO  Log:21 - Completion Date submitted
+2019-11-23 02:44:43 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 02:44:43 INFO  Log:21 - Loan Amount submitted
+2019-11-23 02:44:44 INFO  Log:11 - Test is Starting...
+2019-11-23 02:44:44 INFO  Log:21 - Web URL Launched
+2019-11-23 02:44:47 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:44:50 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:44:53 INFO  Log:21 - Student opted
+2019-11-23 02:44:53 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:44:54 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:44:58 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:44:59 INFO  Log:21 - Degree selected
+2019-11-23 02:44:59 INFO  Log:21 - Field of Study selected
+2019-11-23 02:44:59 INFO  Log:21 - Year Of Study Selected
+2019-11-23 02:45:00 INFO  Log:21 - Completion Date submitted
+2019-11-23 02:45:00 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 02:45:00 INFO  Log:21 - Loan Amount submitted
+2019-11-23 02:45:00 INFO  Log:11 - Test is Starting...
+2019-11-23 02:45:00 INFO  Log:21 - Web URL Launched
+2019-11-23 02:45:02 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:45:05 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:45:08 INFO  Log:21 - Student opted
+2019-11-23 02:45:09 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:45:09 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:45:14 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:45:14 INFO  Log:21 - Degree selected
+2019-11-23 02:45:14 INFO  Log:21 - Field Of Study Selected
+2019-11-23 02:45:15 INFO  Log:21 - Year Of Study Selected
+2019-11-23 02:45:15 INFO  Log:21 - Completion Date submitted
+2019-11-23 02:45:15 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 02:45:15 INFO  Log:21 - Loan Amount submitted
+2019-11-23 02:45:16 INFO  Log:11 - Test is Starting...
+2019-11-23 02:45:16 INFO  Log:21 - Web URL Launched
+2019-11-23 02:45:20 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:45:22 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:45:25 INFO  Log:21 - Student opted
+2019-11-23 02:45:26 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:45:26 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:45:31 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:45:31 INFO  Log:21 - Degree selected
+2019-11-23 02:45:31 INFO  Log:21 - Field Of Study Selected
+2019-11-23 02:45:32 INFO  Log:21 - Year Of Study Selected
+2019-11-23 02:45:32 INFO  Log:21 - Completion Date submitted
+2019-11-23 02:45:32 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 02:45:33 INFO  Log:21 - Loan Amount submitted
+2019-11-23 02:45:33 INFO  Log:11 - Test is Starting...
+2019-11-23 02:45:33 INFO  Log:21 - Web URL Launched
+2019-11-23 02:45:37 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:45:39 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:45:42 INFO  Log:21 - Student opted
+2019-11-23 02:45:42 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:45:43 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:45:48 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:45:48 INFO  Log:21 - Degree selected
+2019-11-23 02:45:49 INFO  Log:21 - Year Of Study Selected
+2019-11-23 02:45:49 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 02:45:49 INFO  Log:21 - Completion Date submitted
+2019-11-23 02:45:49 INFO  Log:21 - Loan Amount submitted
+2019-11-23 02:45:51 INFO  Log:21 - Employment Income submitted
+2019-11-23 02:45:51 INFO  Log:21 - Other Income Provided
+2019-11-23 02:45:51 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 02:45:51 INFO  Log:21 - Family Income submitted
+2019-11-23 02:45:52 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 02:45:52 INFO  Log:21 - Housing Payment submitted
+2019-11-23 02:45:52 INFO  Log:21 - Citizenship status selected
+2019-11-23 02:45:53 INFO  Log:11 - Test is Starting...
+2019-11-23 02:45:53 INFO  Log:21 - Web URL Launched
+2019-11-23 02:45:56 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:45:58 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:46:01 INFO  Log:21 - Student opted
+2019-11-23 02:46:02 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:46:02 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:46:07 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:46:08 INFO  Log:21 - Degree selected
+2019-11-23 02:46:08 INFO  Log:21 - Year Of Study Selected
+2019-11-23 02:46:08 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 02:46:08 INFO  Log:21 - Completion Date submitted
+2019-11-23 02:46:08 INFO  Log:21 - Loan Amount submitted
+2019-11-23 02:46:10 INFO  Log:21 - Employment Income submitted
+2019-11-23 02:46:10 INFO  Log:21 - Other Income Provided
+2019-11-23 02:46:10 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 02:46:11 INFO  Log:21 - Family Income submitted
+2019-11-23 02:46:11 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 02:46:11 INFO  Log:21 - Housing Payment submitted
+2019-11-23 02:46:11 INFO  Log:21 - Citizenship status selected
+2019-11-23 02:46:12 INFO  Log:21 - Alien ID submitted
+2019-11-23 02:46:12 INFO  Log:11 - Test is Starting...
+2019-11-23 02:46:12 INFO  Log:21 - Web URL Launched
+2019-11-23 02:46:15 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:46:18 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:46:21 INFO  Log:21 - Student opted
+2019-11-23 02:46:21 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:46:21 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:46:26 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:46:27 INFO  Log:21 - Degree selected
+2019-11-23 02:46:27 INFO  Log:21 - Year Of Study Selected
+2019-11-23 02:46:28 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 02:46:28 INFO  Log:21 - Completion Date submitted
+2019-11-23 02:46:28 INFO  Log:21 - Loan Amount submitted
+2019-11-23 02:46:29 INFO  Log:21 - Employment Income submitted
+2019-11-23 02:46:29 INFO  Log:21 - Other Income Provided
+2019-11-23 02:46:29 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 02:46:30 INFO  Log:21 - Family Income submitted
+2019-11-23 02:46:30 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 02:46:30 INFO  Log:21 - Housing Payment submitted
+2019-11-23 02:46:30 INFO  Log:21 - Citizenship status selected
+2019-11-23 02:46:31 INFO  Log:21 - Alien ID submitted
+2019-11-23 02:46:31 INFO  Log:11 - Test is Starting...
+2019-11-23 02:46:31 INFO  Log:21 - Web URL Launched
+2019-11-23 02:46:36 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:46:38 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:46:41 INFO  Log:21 - Student opted
+2019-11-23 02:46:42 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:46:42 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:46:47 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:46:47 INFO  Log:21 - Degree selected
+2019-11-23 02:46:48 INFO  Log:21 - Year Of Study Selected
+2019-11-23 02:46:48 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 02:46:48 INFO  Log:21 - Completion Date submitted
+2019-11-23 02:46:48 INFO  Log:21 - Loan Amount submitted
+2019-11-23 02:46:50 INFO  Log:21 - Employment Income submitted
+2019-11-23 02:46:50 INFO  Log:21 - Other Income Provided
+2019-11-23 02:46:50 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 02:46:50 INFO  Log:21 - Family Income submitted
+2019-11-23 02:46:51 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 02:46:51 INFO  Log:21 - Housing Payment submitted
+2019-11-23 02:46:51 INFO  Log:21 - Citizenship status selected
+2019-11-23 02:46:52 INFO  Log:21 - Alien ID submitted
+2019-11-23 02:46:52 INFO  Log:11 - Test is Starting...
+2019-11-23 02:46:52 INFO  Log:21 - Web URL Launched
+2019-11-23 02:46:55 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:46:58 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:47:01 INFO  Log:21 - Student opted
+2019-11-23 02:47:02 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:47:02 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:47:07 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:47:07 INFO  Log:21 - Degree selected
+2019-11-23 02:47:08 INFO  Log:21 - Year Of Study Selected
+2019-11-23 02:47:08 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 02:47:08 INFO  Log:21 - Completion Date submitted
+2019-11-23 02:47:08 INFO  Log:21 - Loan Amount submitted
+2019-11-23 02:47:09 INFO  Log:21 - Employment Income submitted
+2019-11-23 02:47:10 INFO  Log:21 - Other Income Provided
+2019-11-23 02:47:10 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 02:47:10 INFO  Log:21 - Family Income submitted
+2019-11-23 02:47:10 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 02:47:11 INFO  Log:21 - Housing Payment submitted
+2019-11-23 02:47:11 INFO  Log:21 - Citizenship status selected
+2019-11-23 02:47:11 INFO  Log:21 - Alien ID submitted
+2019-11-23 02:47:12 INFO  Log:11 - Test is Starting...
+2019-11-23 02:47:12 INFO  Log:21 - Web URL Launched
+2019-11-23 02:47:16 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:47:18 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:47:22 INFO  Log:21 - Student opted
+2019-11-23 02:47:22 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:47:22 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:47:27 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:47:27 INFO  Log:21 - Degree selected
+2019-11-23 02:47:28 INFO  Log:21 - Year Of Study Selected
+2019-11-23 02:47:28 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 02:47:28 INFO  Log:21 - Completion Date submitted
+2019-11-23 02:47:28 INFO  Log:21 - Loan Amount submitted
+2019-11-23 02:47:30 INFO  Log:21 - Employment Income submitted
+2019-11-23 02:47:30 INFO  Log:21 - Other Income Provided
+2019-11-23 02:47:30 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 02:47:31 INFO  Log:21 - Family Income submitted
+2019-11-23 02:47:31 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 02:47:31 INFO  Log:21 - Housing Payment submitted
+2019-11-23 02:47:31 INFO  Log:21 - Citizenship status selected
+2019-11-23 02:47:33 INFO  Log:21 - Profile Details submitted
+2019-11-23 02:47:33 INFO  Log:21 - Date of Birth submitted
+2019-11-23 02:47:33 INFO  Log:21 - Phone Number Submitted
+2019-11-23 02:47:35 INFO  Log:21 - Address Details Submitted
+2019-11-23 02:47:36 INFO  Log:21 - Email validated
+2019-11-23 02:47:38 INFO  Log:21 - Password validated
+2019-11-23 02:47:38 INFO  Log:11 - Test is Starting...
+2019-11-23 02:47:38 INFO  Log:21 - Web URL Launched
+2019-11-23 02:47:41 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:47:43 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:47:47 INFO  Log:21 - Student opted
+2019-11-23 02:47:47 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:47:47 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:47:52 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:47:53 INFO  Log:21 - Degree selected
+2019-11-23 02:47:53 INFO  Log:21 - Year Of Study Selected
+2019-11-23 02:47:53 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 02:47:54 INFO  Log:21 - Completion Date submitted
+2019-11-23 02:47:54 INFO  Log:21 - Loan Amount submitted
+2019-11-23 02:47:55 INFO  Log:21 - Employment Income submitted
+2019-11-23 02:47:55 INFO  Log:21 - Other Income Provided
+2019-11-23 02:47:55 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 02:47:56 INFO  Log:21 - Family Income submitted
+2019-11-23 02:47:56 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 02:47:56 INFO  Log:21 - Housing Payment submitted
+2019-11-23 02:47:56 INFO  Log:21 - Citizenship status selected
+2019-11-23 02:47:58 INFO  Log:21 - Profile Details submitted
+2019-11-23 02:47:59 INFO  Log:21 - Date of Birth submitted
+2019-11-23 02:47:59 INFO  Log:21 - Phone Number Submitted
+2019-11-23 02:48:01 INFO  Log:21 - Address Details Submitted
+2019-11-23 02:48:01 INFO  Log:21 - Email validated
+2019-11-23 02:48:03 INFO  Log:21 - Password validated
+2019-11-23 02:48:03 INFO  Log:11 - Test is Starting...
+2019-11-23 02:48:03 INFO  Log:21 - Web URL Launched
+2019-11-23 02:48:07 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:48:09 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:48:12 INFO  Log:21 - Student opted
+2019-11-23 02:48:13 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:48:13 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:48:18 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:48:18 INFO  Log:21 - Degree selected
+2019-11-23 02:48:18 INFO  Log:21 - Year Of Study Selected
+2019-11-23 02:48:19 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 02:48:19 INFO  Log:21 - Completion Date submitted
+2019-11-23 02:48:19 INFO  Log:21 - Loan Amount submitted
+2019-11-23 02:48:20 INFO  Log:21 - Employment Income submitted
+2019-11-23 02:48:20 INFO  Log:21 - Other Income Provided
+2019-11-23 02:48:21 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 02:48:21 INFO  Log:21 - Family Income submitted
+2019-11-23 02:48:21 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 02:48:21 INFO  Log:21 - Housing Payment submitted
+2019-11-23 02:48:22 INFO  Log:21 - Citizenship status selected
+2019-11-23 02:48:24 INFO  Log:21 - Profile Details submitted
+2019-11-23 02:48:24 INFO  Log:21 - Date of Birth submitted
+2019-11-23 02:48:24 INFO  Log:21 - Phone Number Submitted
+2019-11-23 02:48:26 INFO  Log:21 - Address Details Submitted
+2019-11-23 02:48:27 INFO  Log:21 - Email validated
+2019-11-23 02:48:29 INFO  Log:21 - Password validated
+2019-11-23 02:48:29 INFO  Log:11 - Test is Starting...
+2019-11-23 02:48:29 INFO  Log:21 - Web URL Launched
+2019-11-23 02:48:33 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:48:35 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:48:39 INFO  Log:21 - Student opted
+2019-11-23 02:48:39 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:48:39 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:48:44 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:48:45 INFO  Log:21 - Degree selected
+2019-11-23 02:48:45 INFO  Log:21 - Year Of Study Selected
+2019-11-23 02:48:45 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 02:48:45 INFO  Log:21 - Completion Date submitted
+2019-11-23 02:48:46 INFO  Log:21 - Loan Amount submitted
+2019-11-23 02:48:47 INFO  Log:21 - Employment Income submitted
+2019-11-23 02:48:47 INFO  Log:21 - Other Income Provided
+2019-11-23 02:48:47 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 02:48:48 INFO  Log:21 - Family Income submitted
+2019-11-23 02:48:48 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 02:48:48 INFO  Log:21 - Housing Payment submitted
+2019-11-23 02:48:48 INFO  Log:21 - Citizenship status selected
+2019-11-23 02:48:50 INFO  Log:21 - Profile Details submitted
+2019-11-23 02:48:51 INFO  Log:21 - Date of Birth submitted
+2019-11-23 02:48:51 INFO  Log:21 - Phone Number Submitted
+2019-11-23 02:48:53 INFO  Log:21 - Address Details Submitted
+2019-11-23 02:48:53 INFO  Log:21 - Email validated
+2019-11-23 02:48:55 INFO  Log:21 - Password validated
+2019-11-23 02:48:55 INFO  Log:11 - Test is Starting...
+2019-11-23 02:48:55 INFO  Log:21 - Web URL Launched
+2019-11-23 02:48:59 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:49:01 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:49:05 INFO  Log:21 - Student opted
+2019-11-23 02:49:05 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:49:06 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:49:11 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:49:11 INFO  Log:21 - Degree selected
+2019-11-23 02:49:12 INFO  Log:21 - Year Of Study Selected
+2019-11-23 02:49:12 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 02:49:12 INFO  Log:21 - Completion Date submitted
+2019-11-23 02:49:12 INFO  Log:21 - Loan Amount submitted
+2019-11-23 02:49:13 INFO  Log:21 - Employment Income submitted
+2019-11-23 02:49:14 INFO  Log:21 - Other Income Provided
+2019-11-23 02:49:14 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 02:49:14 INFO  Log:21 - Family Income submitted
+2019-11-23 02:49:14 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 02:49:15 INFO  Log:21 - Housing Payment submitted
+2019-11-23 02:49:15 INFO  Log:21 - Citizenship status selected
+2019-11-23 02:49:16 INFO  Log:21 - Profile Details submitted
+2019-11-23 02:49:17 INFO  Log:21 - Date of Birth submitted
+2019-11-23 02:49:17 INFO  Log:21 - Phone Number Submitted
+2019-11-23 02:49:18 INFO  Log:21 - Address Details Submitted
+2019-11-23 02:49:20 INFO  Log:21 - Email tooltip Validated
+2019-11-23 02:49:20 INFO  Log:11 - Test is Starting...
+2019-11-23 02:49:20 INFO  Log:21 - Web URL Launched
+2019-11-23 02:49:22 INFO  Log:16 - Test is Ending...
+2019-11-23 02:54:09 INFO  Log:11 - Test is Starting...
+2019-11-23 02:54:15 INFO  Log:21 - Driver Intialized
+2019-11-23 02:54:19 INFO  Log:21 - Web URL Launched
+2019-11-23 02:54:19 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:54:22 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:54:27 INFO  Log:21 - Student opted
+2019-11-23 02:54:27 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:54:28 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:54:33 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:54:33 INFO  Log:21 - Degree selected
+2019-11-23 02:54:33 INFO  Log:21 - Year Of Study Selected
+2019-11-23 02:54:34 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 02:54:34 INFO  Log:21 - Completion Date submitted
+2019-11-23 02:54:34 INFO  Log:21 - Loan Amount submitted
+2019-11-23 02:54:36 INFO  Log:21 - Employment Income submitted
+2019-11-23 02:54:36 INFO  Log:21 - Other Income Provided
+2019-11-23 02:54:36 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 02:54:36 INFO  Log:21 - Family Income submitted
+2019-11-23 02:54:37 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 02:54:37 INFO  Log:21 - Housing Payment submitted
+2019-11-23 02:54:37 INFO  Log:21 - Citizenship status selected
+2019-11-23 02:54:39 INFO  Log:21 - Profile Details submitted
+2019-11-23 02:54:39 INFO  Log:21 - Date of Birth submitted
+2019-11-23 02:54:39 INFO  Log:21 - Phone Number Submitted
+2019-11-23 02:54:41 INFO  Log:21 - Address Details Submitted
+2019-11-23 02:54:43 INFO  Log:21 - Email tooltip Validated
+2019-11-23 02:58:18 INFO  Log:11 - Test is Starting...
+2019-11-23 02:58:24 INFO  Log:21 - Driver Intialized
+2019-11-23 02:58:29 INFO  Log:21 - Web URL Launched
+2019-11-23 02:58:30 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:58:32 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:58:37 INFO  Log:21 - Student opted
+2019-11-23 02:58:38 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:58:38 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:58:43 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:58:43 INFO  Log:21 - Degree selected
+2019-11-23 02:58:44 INFO  Log:21 - Year Of Study Selected
+2019-11-23 02:58:44 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 02:58:44 INFO  Log:21 - Completion Date submitted
+2019-11-23 02:58:44 INFO  Log:21 - Loan Amount submitted
+2019-11-23 02:58:46 INFO  Log:21 - Employment Income submitted
+2019-11-23 02:58:46 INFO  Log:21 - Other Income Provided
+2019-11-23 02:58:46 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 02:58:46 INFO  Log:21 - Family Income submitted
+2019-11-23 02:58:47 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 02:58:47 INFO  Log:21 - Housing Payment submitted
+2019-11-23 02:58:47 INFO  Log:21 - Citizenship status selected
+2019-11-23 02:58:49 INFO  Log:21 - Profile Details submitted
+2019-11-23 02:58:49 INFO  Log:21 - Date of Birth submitted
+2019-11-23 02:58:49 INFO  Log:21 - Phone Number Submitted
+2019-11-23 02:58:51 INFO  Log:21 - Address Details Submitted
+2019-11-23 02:58:52 INFO  Log:21 - Email validated
+2019-11-23 02:58:53 INFO  Log:21 - Password validated
+2019-11-23 02:58:53 INFO  Log:11 - Test is Starting...
+2019-11-23 02:58:53 INFO  Log:21 - Web URL Launched
+2019-11-23 02:58:57 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:58:59 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:59:04 INFO  Log:21 - Student opted
+2019-11-23 02:59:04 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:59:04 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:59:09 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:59:09 INFO  Log:21 - Degree selected
+2019-11-23 02:59:10 INFO  Log:21 - Year Of Study Selected
+2019-11-23 02:59:10 INFO  Log:21 - Completion Date submitted
+2019-11-23 02:59:10 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 02:59:10 INFO  Log:21 - Loan Amount submitted
+2019-11-23 02:59:11 INFO  Log:11 - Test is Starting...
+2019-11-23 02:59:11 INFO  Log:21 - Web URL Launched
+2019-11-23 02:59:14 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:59:16 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:59:20 INFO  Log:21 - Student opted
+2019-11-23 02:59:20 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:59:20 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:59:25 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:59:26 INFO  Log:21 - Degree selected
+2019-11-23 02:59:26 INFO  Log:21 - Year Of Study Selected
+2019-11-23 02:59:26 INFO  Log:21 - Completion Date submitted
+2019-11-23 02:59:27 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 02:59:27 INFO  Log:21 - Loan Amount submitted
+2019-11-23 02:59:27 INFO  Log:11 - Test is Starting...
+2019-11-23 02:59:27 INFO  Log:21 - Web URL Launched
+2019-11-23 02:59:30 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:59:33 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:59:36 INFO  Log:21 - Student opted
+2019-11-23 02:59:36 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:59:37 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:59:41 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:59:42 INFO  Log:21 - Degree selected
+2019-11-23 02:59:42 INFO  Log:21 - Year Of Study Selected
+2019-11-23 02:59:42 INFO  Log:21 - Completion Date submitted
+2019-11-23 02:59:43 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 02:59:43 INFO  Log:21 - Loan Amount submitted
+2019-11-23 02:59:43 INFO  Log:11 - Test is Starting...
+2019-11-23 02:59:43 INFO  Log:21 - Web URL Launched
+2019-11-23 02:59:46 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 02:59:49 INFO  Log:21 - Check Rates Selected
+2019-11-23 02:59:52 INFO  Log:21 - Student opted
+2019-11-23 02:59:52 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 02:59:52 INFO  Log:21 - Not checked rates with other
+2019-11-23 02:59:57 INFO  Log:21 - Institution Name Selected
+2019-11-23 02:59:58 INFO  Log:21 - Degree selected
+2019-11-23 02:59:58 INFO  Log:21 - Field of Study selected
+2019-11-23 02:59:58 INFO  Log:21 - Year Of Study Selected
+2019-11-23 02:59:58 INFO  Log:21 - Completion Date submitted
+2019-11-23 02:59:59 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 02:59:59 INFO  Log:21 - Loan Amount submitted
+2019-11-23 02:59:59 INFO  Log:11 - Test is Starting...
+2019-11-23 02:59:59 INFO  Log:21 - Web URL Launched
+2019-11-23 03:00:03 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 03:00:05 INFO  Log:21 - Check Rates Selected
+2019-11-23 03:00:08 INFO  Log:21 - Student opted
+2019-11-23 03:00:08 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 03:00:08 INFO  Log:21 - Not checked rates with other
+2019-11-23 03:00:13 INFO  Log:21 - Institution Name Selected
+2019-11-23 03:00:14 INFO  Log:21 - Degree selected
+2019-11-23 03:00:14 INFO  Log:21 - Field Of Study Selected
+2019-11-23 03:00:14 INFO  Log:21 - Year Of Study Selected
+2019-11-23 03:00:15 INFO  Log:21 - Completion Date submitted
+2019-11-23 03:00:15 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 03:00:15 INFO  Log:21 - Loan Amount submitted
+2019-11-23 03:00:15 INFO  Log:11 - Test is Starting...
+2019-11-23 03:00:15 INFO  Log:21 - Web URL Launched
+2019-11-23 03:00:18 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 03:00:21 INFO  Log:21 - Check Rates Selected
+2019-11-23 03:00:24 INFO  Log:21 - Student opted
+2019-11-23 03:00:25 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 03:00:25 INFO  Log:21 - Not checked rates with other
+2019-11-23 03:00:29 INFO  Log:21 - Institution Name Selected
+2019-11-23 03:00:30 INFO  Log:21 - Degree selected
+2019-11-23 03:00:30 INFO  Log:21 - Field Of Study Selected
+2019-11-23 03:00:31 INFO  Log:21 - Year Of Study Selected
+2019-11-23 03:00:31 INFO  Log:21 - Completion Date submitted
+2019-11-23 03:00:31 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 03:00:31 INFO  Log:21 - Loan Amount submitted
+2019-11-23 03:00:32 INFO  Log:11 - Test is Starting...
+2019-11-23 03:00:32 INFO  Log:21 - Web URL Launched
+2019-11-23 03:00:35 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 03:00:37 INFO  Log:21 - Check Rates Selected
+2019-11-23 03:00:41 INFO  Log:21 - Student opted
+2019-11-23 03:00:41 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 03:00:41 INFO  Log:21 - Not checked rates with other
+2019-11-23 03:00:46 INFO  Log:21 - Institution Name Selected
+2019-11-23 03:00:47 INFO  Log:21 - Degree selected
+2019-11-23 03:00:47 INFO  Log:21 - Year Of Study Selected
+2019-11-23 03:00:47 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 03:00:48 INFO  Log:21 - Completion Date submitted
+2019-11-23 03:00:48 INFO  Log:21 - Loan Amount submitted
+2019-11-23 03:00:49 INFO  Log:21 - Employment Income submitted
+2019-11-23 03:00:49 INFO  Log:21 - Other Income Provided
+2019-11-23 03:00:49 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 03:00:50 INFO  Log:21 - Family Income submitted
+2019-11-23 03:00:50 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 03:00:50 INFO  Log:21 - Housing Payment submitted
+2019-11-23 03:00:50 INFO  Log:21 - Citizenship status selected
+2019-11-23 03:00:51 INFO  Log:11 - Test is Starting...
+2019-11-23 03:00:51 INFO  Log:21 - Web URL Launched
+2019-11-23 03:00:54 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 03:00:56 INFO  Log:21 - Check Rates Selected
+2019-11-23 03:01:00 INFO  Log:21 - Student opted
+2019-11-23 03:01:00 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 03:01:00 INFO  Log:21 - Not checked rates with other
+2019-11-23 03:01:05 INFO  Log:21 - Institution Name Selected
+2019-11-23 03:01:06 INFO  Log:21 - Degree selected
+2019-11-23 03:01:06 INFO  Log:21 - Year Of Study Selected
+2019-11-23 03:01:06 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 03:01:07 INFO  Log:21 - Completion Date submitted
+2019-11-23 03:01:07 INFO  Log:21 - Loan Amount submitted
+2019-11-23 03:01:08 INFO  Log:21 - Employment Income submitted
+2019-11-23 03:01:08 INFO  Log:21 - Other Income Provided
+2019-11-23 03:01:08 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 03:01:09 INFO  Log:21 - Family Income submitted
+2019-11-23 03:01:09 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 03:01:09 INFO  Log:21 - Housing Payment submitted
+2019-11-23 03:01:10 INFO  Log:21 - Citizenship status selected
+2019-11-23 03:01:10 INFO  Log:21 - Alien ID submitted
+2019-11-23 03:01:10 INFO  Log:11 - Test is Starting...
+2019-11-23 03:01:10 INFO  Log:21 - Web URL Launched
+2019-11-23 03:01:13 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 03:01:16 INFO  Log:21 - Check Rates Selected
+2019-11-23 03:01:18 INFO  Log:21 - Student opted
+2019-11-23 03:01:19 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 03:01:19 INFO  Log:21 - Not checked rates with other
+2019-11-23 03:01:24 INFO  Log:21 - Institution Name Selected
+2019-11-23 03:01:24 INFO  Log:21 - Degree selected
+2019-11-23 03:01:25 INFO  Log:21 - Year Of Study Selected
+2019-11-23 03:01:25 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 03:01:25 INFO  Log:21 - Completion Date submitted
+2019-11-23 03:01:25 INFO  Log:21 - Loan Amount submitted
+2019-11-23 03:01:27 INFO  Log:21 - Employment Income submitted
+2019-11-23 03:01:27 INFO  Log:21 - Other Income Provided
+2019-11-23 03:01:27 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 03:01:27 INFO  Log:21 - Family Income submitted
+2019-11-23 03:01:28 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 03:01:28 INFO  Log:21 - Housing Payment submitted
+2019-11-23 03:01:28 INFO  Log:21 - Citizenship status selected
+2019-11-23 03:01:28 INFO  Log:21 - Alien ID submitted
+2019-11-23 03:01:29 INFO  Log:11 - Test is Starting...
+2019-11-23 03:01:29 INFO  Log:21 - Web URL Launched
+2019-11-23 03:01:32 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 03:01:34 INFO  Log:21 - Check Rates Selected
+2019-11-23 03:01:37 INFO  Log:21 - Student opted
+2019-11-23 03:01:39 INFO  Log:21 - Screenshot captured for Failed Scenario
+2019-11-23 03:01:40 INFO  Log:16 - Test is Ending...
+2019-11-23 03:01:40 INFO  Log:11 - Test is Starting...
+2019-11-23 03:01:40 INFO  Log:16 - Test is Ending...
+2019-11-23 03:01:40 INFO  Log:11 - Test is Starting...
+2019-11-23 03:01:40 INFO  Log:16 - Test is Ending...
+2019-11-23 03:01:40 INFO  Log:11 - Test is Starting...
+2019-11-23 03:01:40 INFO  Log:16 - Test is Ending...
+2019-11-23 03:01:40 INFO  Log:11 - Test is Starting...
+2019-11-23 03:01:40 INFO  Log:16 - Test is Ending...
+2019-11-23 03:01:40 INFO  Log:11 - Test is Starting...
+2019-11-23 03:01:40 INFO  Log:16 - Test is Ending...
+2019-11-23 03:01:40 INFO  Log:11 - Test is Starting...
+2019-11-23 03:01:40 INFO  Log:16 - Test is Ending...
+2019-11-23 03:01:40 INFO  Log:11 - Test is Starting...
+2019-11-23 03:01:40 INFO  Log:16 - Test is Ending...
+2019-11-23 03:05:49 INFO  Log:11 - Test is Starting...
+2019-11-23 03:05:55 INFO  Log:21 - Driver Intialized
+2019-11-23 03:06:00 INFO  Log:21 - Web URL Launched
+2019-11-23 03:06:00 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 03:06:03 INFO  Log:21 - Check Rates Selected
+2019-11-23 03:06:07 INFO  Log:21 - Student opted
+2019-11-23 03:06:08 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 03:06:08 INFO  Log:21 - Not checked rates with other
+2019-11-23 03:06:13 INFO  Log:21 - Institution Name Selected
+2019-11-23 03:06:13 INFO  Log:21 - Degree selected
+2019-11-23 03:06:14 INFO  Log:21 - Year Of Study Selected
+2019-11-23 03:06:14 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 03:06:14 INFO  Log:21 - Completion Date submitted
+2019-11-23 03:06:15 INFO  Log:21 - Loan Amount submitted
+2019-11-23 03:06:16 INFO  Log:21 - Employment Income submitted
+2019-11-23 03:06:16 INFO  Log:21 - Other Income Provided
+2019-11-23 03:06:16 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 03:06:17 INFO  Log:21 - Family Income submitted
+2019-11-23 03:06:17 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 03:06:17 INFO  Log:21 - Housing Payment submitted
+2019-11-23 03:06:18 INFO  Log:21 - Citizenship status selected
+2019-11-23 03:06:19 INFO  Log:21 - Profile Details submitted
+2019-11-23 03:06:19 INFO  Log:21 - Date of Birth submitted
+2019-11-23 03:06:19 INFO  Log:21 - Phone Number Submitted
+2019-11-23 03:06:21 INFO  Log:21 - Address Details Submitted
+2019-11-23 03:06:22 INFO  Log:21 - Email validated
+2019-11-23 03:06:23 INFO  Log:21 - Password validated
+2019-11-23 03:06:23 INFO  Log:11 - Test is Starting...
+2019-11-23 03:06:23 INFO  Log:21 - Web URL Launched
+2019-11-23 03:06:27 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 03:06:29 INFO  Log:21 - Check Rates Selected
+2019-11-23 03:06:33 INFO  Log:21 - Student opted
+2019-11-23 03:06:34 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 03:06:34 INFO  Log:21 - Not checked rates with other
+2019-11-23 03:06:39 INFO  Log:21 - Institution Name Selected
+2019-11-23 03:06:40 INFO  Log:21 - Degree selected
+2019-11-23 03:06:40 INFO  Log:21 - Year Of Study Selected
+2019-11-23 03:06:40 INFO  Log:21 - Completion Date submitted
+2019-11-23 03:06:40 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 03:06:41 INFO  Log:21 - Loan Amount submitted
+2019-11-23 03:06:41 INFO  Log:11 - Test is Starting...
+2019-11-23 03:06:41 INFO  Log:21 - Web URL Launched
+2019-11-23 03:06:44 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 03:06:46 INFO  Log:21 - Check Rates Selected
+2019-11-23 03:06:49 INFO  Log:21 - Student opted
+2019-11-23 03:06:50 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 03:06:50 INFO  Log:21 - Not checked rates with other
+2019-11-23 03:06:55 INFO  Log:21 - Institution Name Selected
+2019-11-23 03:06:55 INFO  Log:21 - Degree selected
+2019-11-23 03:06:55 INFO  Log:21 - Year Of Study Selected
+2019-11-23 03:06:55 INFO  Log:21 - Completion Date submitted
+2019-11-23 03:06:56 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 03:06:56 INFO  Log:21 - Loan Amount submitted
+2019-11-23 03:06:56 INFO  Log:11 - Test is Starting...
+2019-11-23 03:06:56 INFO  Log:21 - Web URL Launched
+2019-11-23 03:06:59 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 03:07:02 INFO  Log:21 - Check Rates Selected
+2019-11-23 03:07:05 INFO  Log:21 - Student opted
+2019-11-23 03:07:05 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 03:07:05 INFO  Log:21 - Not checked rates with other
+2019-11-23 03:07:10 INFO  Log:21 - Institution Name Selected
+2019-11-23 03:07:11 INFO  Log:21 - Degree selected
+2019-11-23 03:07:11 INFO  Log:21 - Year Of Study Selected
+2019-11-23 03:07:11 INFO  Log:21 - Completion Date submitted
+2019-11-23 03:07:11 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 03:07:12 INFO  Log:21 - Loan Amount submitted
+2019-11-23 03:07:12 INFO  Log:11 - Test is Starting...
+2019-11-23 03:07:12 INFO  Log:21 - Web URL Launched
+2019-11-23 03:07:15 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 03:07:18 INFO  Log:21 - Check Rates Selected
+2019-11-23 03:07:22 INFO  Log:21 - Student opted
+2019-11-23 03:07:22 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 03:07:22 INFO  Log:21 - Not checked rates with other
+2019-11-23 03:07:27 INFO  Log:21 - Institution Name Selected
+2019-11-23 03:07:27 INFO  Log:21 - Degree selected
+2019-11-23 03:07:28 INFO  Log:21 - Field of Study selected
+2019-11-23 03:07:28 INFO  Log:21 - Year Of Study Selected
+2019-11-23 03:07:28 INFO  Log:21 - Completion Date submitted
+2019-11-23 03:07:28 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 03:07:29 INFO  Log:21 - Loan Amount submitted
+2019-11-23 03:07:29 INFO  Log:11 - Test is Starting...
+2019-11-23 03:07:29 INFO  Log:21 - Web URL Launched
+2019-11-23 03:07:33 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 03:07:35 INFO  Log:21 - Check Rates Selected
+2019-11-23 03:07:38 INFO  Log:21 - Student opted
+2019-11-23 03:07:39 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 03:07:39 INFO  Log:21 - Not checked rates with other
+2019-11-23 03:07:44 INFO  Log:21 - Institution Name Selected
+2019-11-23 03:07:44 INFO  Log:21 - Degree selected
+2019-11-23 03:07:44 INFO  Log:21 - Field Of Study Selected
+2019-11-23 03:07:45 INFO  Log:21 - Year Of Study Selected
+2019-11-23 03:07:45 INFO  Log:21 - Completion Date submitted
+2019-11-23 03:07:45 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 03:07:45 INFO  Log:21 - Loan Amount submitted
+2019-11-23 03:07:46 INFO  Log:11 - Test is Starting...
+2019-11-23 03:07:46 INFO  Log:21 - Web URL Launched
+2019-11-23 03:07:50 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 03:07:52 INFO  Log:21 - Check Rates Selected
+2019-11-23 03:07:55 INFO  Log:21 - Student opted
+2019-11-23 03:07:56 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 03:07:56 INFO  Log:21 - Not checked rates with other
+2019-11-23 03:08:01 INFO  Log:21 - Institution Name Selected
+2019-11-23 03:08:01 INFO  Log:21 - Degree selected
+2019-11-23 03:08:01 INFO  Log:21 - Field Of Study Selected
+2019-11-23 03:08:02 INFO  Log:21 - Year Of Study Selected
+2019-11-23 03:08:02 INFO  Log:21 - Completion Date submitted
+2019-11-23 03:08:03 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 03:08:03 INFO  Log:21 - Loan Amount submitted
+2019-11-23 03:08:03 INFO  Log:11 - Test is Starting...
+2019-11-23 03:08:03 INFO  Log:21 - Web URL Launched
+2019-11-23 03:08:03 INFO  Log:16 - Test is Ending...
+2019-11-23 03:08:03 INFO  Log:11 - Test is Starting...
+2019-11-23 03:08:07 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 03:08:09 INFO  Log:21 - Check Rates Selected
+2019-11-23 03:08:13 INFO  Log:21 - Student opted
+2019-11-23 03:08:13 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 03:08:13 INFO  Log:21 - Not checked rates with other
+2019-11-23 03:08:18 INFO  Log:21 - Institution Name Selected
+2019-11-23 03:08:19 INFO  Log:21 - Degree selected
+2019-11-23 03:08:19 INFO  Log:21 - Year Of Study Selected
+2019-11-23 03:08:19 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 03:08:19 INFO  Log:21 - Completion Date submitted
+2019-11-23 03:08:20 INFO  Log:21 - Loan Amount submitted
+2019-11-23 03:08:21 INFO  Log:21 - Employment Income submitted
+2019-11-23 03:08:21 INFO  Log:21 - Other Income Provided
+2019-11-23 03:08:21 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 03:08:22 INFO  Log:21 - Family Income submitted
+2019-11-23 03:08:22 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 03:08:22 INFO  Log:21 - Housing Payment submitted
+2019-11-23 03:08:23 INFO  Log:21 - Citizenship status selected
+2019-11-23 03:08:23 INFO  Log:21 - Alien ID submitted
+2019-11-23 03:08:23 INFO  Log:11 - Test is Starting...
+2019-11-23 03:08:23 INFO  Log:21 - Web URL Launched
+2019-11-23 03:08:27 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 03:08:29 INFO  Log:21 - Check Rates Selected
+2019-11-23 03:08:33 INFO  Log:21 - Student opted
+2019-11-23 03:08:33 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 03:08:33 INFO  Log:21 - Not checked rates with other
+2019-11-23 03:08:38 INFO  Log:21 - Institution Name Selected
+2019-11-23 03:08:39 INFO  Log:21 - Degree selected
+2019-11-23 03:08:39 INFO  Log:21 - Year Of Study Selected
+2019-11-23 03:08:39 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 03:08:39 INFO  Log:21 - Completion Date submitted
+2019-11-23 03:08:39 INFO  Log:21 - Loan Amount submitted
+2019-11-23 03:08:41 INFO  Log:21 - Employment Income submitted
+2019-11-23 03:08:41 INFO  Log:21 - Other Income Provided
+2019-11-23 03:08:41 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 03:08:41 INFO  Log:21 - Family Income submitted
+2019-11-23 03:08:42 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 03:08:42 INFO  Log:21 - Housing Payment submitted
+2019-11-23 03:08:42 INFO  Log:21 - Citizenship status selected
+2019-11-23 03:08:42 INFO  Log:21 - Alien ID submitted
+2019-11-23 03:08:43 INFO  Log:11 - Test is Starting...
+2019-11-23 03:08:43 INFO  Log:21 - Web URL Launched
+2019-11-23 03:08:46 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 03:08:48 INFO  Log:21 - Check Rates Selected
+2019-11-23 03:08:51 INFO  Log:21 - Student opted
+2019-11-23 03:08:52 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 03:08:52 INFO  Log:21 - Not checked rates with other
+2019-11-23 03:08:57 INFO  Log:21 - Institution Name Selected
+2019-11-23 03:08:57 INFO  Log:21 - Degree selected
+2019-11-23 03:08:58 INFO  Log:21 - Year Of Study Selected
+2019-11-23 03:08:58 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 03:08:58 INFO  Log:21 - Completion Date submitted
+2019-11-23 03:08:58 INFO  Log:21 - Loan Amount submitted
+2019-11-23 03:08:59 INFO  Log:21 - Employment Income submitted
+2019-11-23 03:09:00 INFO  Log:21 - Other Income Provided
+2019-11-23 03:09:00 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 03:09:00 INFO  Log:21 - Family Income submitted
+2019-11-23 03:09:01 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 03:09:01 INFO  Log:21 - Housing Payment submitted
+2019-11-23 03:09:01 INFO  Log:21 - Citizenship status selected
+2019-11-23 03:09:01 INFO  Log:21 - Alien ID submitted
+2019-11-23 03:09:02 INFO  Log:11 - Test is Starting...
+2019-11-23 03:09:02 INFO  Log:21 - Web URL Launched
+2019-11-23 03:09:06 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 03:09:08 INFO  Log:21 - Check Rates Selected
+2019-11-23 03:09:11 INFO  Log:21 - Student opted
+2019-11-23 03:09:11 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 03:09:12 INFO  Log:21 - Not checked rates with other
+2019-11-23 03:09:17 INFO  Log:21 - Institution Name Selected
+2019-11-23 03:09:17 INFO  Log:21 - Degree selected
+2019-11-23 03:09:17 INFO  Log:21 - Year Of Study Selected
+2019-11-23 03:09:18 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 03:09:18 INFO  Log:21 - Completion Date submitted
+2019-11-23 03:09:18 INFO  Log:21 - Loan Amount submitted
+2019-11-23 03:09:19 INFO  Log:21 - Employment Income submitted
+2019-11-23 03:09:19 INFO  Log:21 - Other Income Provided
+2019-11-23 03:09:20 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 03:09:20 INFO  Log:21 - Family Income submitted
+2019-11-23 03:09:20 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 03:09:20 INFO  Log:21 - Housing Payment submitted
+2019-11-23 03:09:21 INFO  Log:21 - Citizenship status selected
+2019-11-23 03:09:21 INFO  Log:21 - Alien ID submitted
+2019-11-23 03:09:21 INFO  Log:11 - Test is Starting...
+2019-11-23 03:09:21 INFO  Log:21 - Web URL Launched
+2019-11-23 03:09:25 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 03:09:27 INFO  Log:21 - Check Rates Selected
+2019-11-23 03:09:31 INFO  Log:21 - Student opted
+2019-11-23 03:09:31 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 03:09:31 INFO  Log:21 - Not checked rates with other
+2019-11-23 03:09:36 INFO  Log:21 - Institution Name Selected
+2019-11-23 03:09:37 INFO  Log:21 - Degree selected
+2019-11-23 03:09:37 INFO  Log:21 - Year Of Study Selected
+2019-11-23 03:09:37 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 03:09:37 INFO  Log:21 - Completion Date submitted
+2019-11-23 03:09:38 INFO  Log:21 - Loan Amount submitted
+2019-11-23 03:09:39 INFO  Log:21 - Employment Income submitted
+2019-11-23 03:09:39 INFO  Log:21 - Other Income Provided
+2019-11-23 03:09:39 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 03:09:39 INFO  Log:21 - Family Income submitted
+2019-11-23 03:09:40 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 03:09:40 INFO  Log:21 - Housing Payment submitted
+2019-11-23 03:09:40 INFO  Log:21 - Citizenship status selected
+2019-11-23 03:09:42 INFO  Log:21 - Profile Details submitted
+2019-11-23 03:09:42 INFO  Log:21 - Date of Birth submitted
+2019-11-23 03:09:42 INFO  Log:21 - Phone Number Submitted
+2019-11-23 03:09:44 INFO  Log:21 - Address Details Submitted
+2019-11-23 03:09:44 INFO  Log:21 - Email validated
+2019-11-23 03:09:46 INFO  Log:21 - Password validated
+2019-11-23 03:09:46 INFO  Log:11 - Test is Starting...
+2019-11-23 03:09:46 INFO  Log:21 - Web URL Launched
+2019-11-23 03:09:49 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 03:09:52 INFO  Log:21 - Check Rates Selected
+2019-11-23 03:09:55 INFO  Log:21 - Student opted
+2019-11-23 03:09:56 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 03:09:56 INFO  Log:21 - Not checked rates with other
+2019-11-23 03:10:01 INFO  Log:21 - Institution Name Selected
+2019-11-23 03:10:01 INFO  Log:21 - Degree selected
+2019-11-23 03:10:02 INFO  Log:21 - Year Of Study Selected
+2019-11-23 03:10:02 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 03:10:02 INFO  Log:21 - Completion Date submitted
+2019-11-23 03:10:02 INFO  Log:21 - Loan Amount submitted
+2019-11-23 03:10:04 INFO  Log:21 - Employment Income submitted
+2019-11-23 03:10:04 INFO  Log:21 - Other Income Provided
+2019-11-23 03:10:04 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 03:10:04 INFO  Log:21 - Family Income submitted
+2019-11-23 03:10:05 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 03:10:05 INFO  Log:21 - Housing Payment submitted
+2019-11-23 03:10:05 INFO  Log:21 - Citizenship status selected
+2019-11-23 03:10:07 INFO  Log:21 - Profile Details submitted
+2019-11-23 03:10:07 INFO  Log:21 - Date of Birth submitted
+2019-11-23 03:10:07 INFO  Log:21 - Phone Number Submitted
+2019-11-23 03:10:09 INFO  Log:21 - Address Details Submitted
+2019-11-23 03:10:10 INFO  Log:21 - Email validated
+2019-11-23 03:10:12 INFO  Log:21 - Password validated
+2019-11-23 03:10:12 INFO  Log:11 - Test is Starting...
+2019-11-23 03:10:12 INFO  Log:21 - Web URL Launched
+2019-11-23 03:10:16 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 03:10:18 INFO  Log:21 - Check Rates Selected
+2019-11-23 03:10:21 INFO  Log:21 - Student opted
+2019-11-23 03:10:21 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 03:10:21 INFO  Log:21 - Not checked rates with other
+2019-11-23 03:10:26 INFO  Log:21 - Institution Name Selected
+2019-11-23 03:10:27 INFO  Log:21 - Degree selected
+2019-11-23 03:10:27 INFO  Log:21 - Year Of Study Selected
+2019-11-23 03:10:28 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 03:10:28 INFO  Log:21 - Completion Date submitted
+2019-11-23 03:10:28 INFO  Log:21 - Loan Amount submitted
+2019-11-23 03:10:29 INFO  Log:21 - Employment Income submitted
+2019-11-23 03:10:29 INFO  Log:21 - Other Income Provided
+2019-11-23 03:10:30 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 03:10:30 INFO  Log:21 - Family Income submitted
+2019-11-23 03:10:30 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 03:10:30 INFO  Log:21 - Housing Payment submitted
+2019-11-23 03:10:31 INFO  Log:21 - Citizenship status selected
+2019-11-23 03:10:32 INFO  Log:21 - Profile Details submitted
+2019-11-23 03:10:33 INFO  Log:21 - Date of Birth submitted
+2019-11-23 03:10:33 INFO  Log:21 - Phone Number Submitted
+2019-11-23 03:10:34 INFO  Log:21 - Address Details Submitted
+2019-11-23 03:10:35 INFO  Log:21 - Email validated
+2019-11-23 03:10:37 INFO  Log:21 - Password validated
+2019-11-23 03:10:37 INFO  Log:11 - Test is Starting...
+2019-11-23 03:10:37 INFO  Log:21 - Web URL Launched
+2019-11-23 03:10:40 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 03:10:43 INFO  Log:21 - Check Rates Selected
+2019-11-23 03:10:47 INFO  Log:21 - Student opted
+2019-11-23 03:10:47 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 03:10:47 INFO  Log:21 - Not checked rates with other
+2019-11-23 03:10:52 INFO  Log:21 - Institution Name Selected
+2019-11-23 03:10:52 INFO  Log:21 - Degree selected
+2019-11-23 03:10:53 INFO  Log:21 - Year Of Study Selected
+2019-11-23 03:10:53 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 03:10:53 INFO  Log:21 - Completion Date submitted
+2019-11-23 03:10:53 INFO  Log:21 - Loan Amount submitted
+2019-11-23 03:10:55 INFO  Log:21 - Employment Income submitted
+2019-11-23 03:10:55 INFO  Log:21 - Other Income Provided
+2019-11-23 03:10:55 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 03:10:55 INFO  Log:21 - Family Income submitted
+2019-11-23 03:10:56 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 03:10:56 INFO  Log:21 - Housing Payment submitted
+2019-11-23 03:10:56 INFO  Log:21 - Citizenship status selected
+2019-11-23 03:10:58 INFO  Log:21 - Profile Details submitted
+2019-11-23 03:10:59 INFO  Log:21 - Date of Birth submitted
+2019-11-23 03:10:59 INFO  Log:21 - Phone Number Submitted
+2019-11-23 03:11:01 INFO  Log:21 - Address Details Submitted
+2019-11-23 03:11:01 INFO  Log:21 - Email validated
+2019-11-23 03:11:03 INFO  Log:21 - Password validated
+2019-11-23 03:11:03 INFO  Log:11 - Test is Starting...
+2019-11-23 03:11:03 INFO  Log:21 - Web URL Launched
+2019-11-23 03:11:07 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 03:11:09 INFO  Log:21 - Check Rates Selected
+2019-11-23 03:11:12 INFO  Log:21 - Student opted
+2019-11-23 03:11:13 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 03:11:13 INFO  Log:21 - Not checked rates with other
+2019-11-23 03:11:18 INFO  Log:21 - Institution Name Selected
+2019-11-23 03:11:18 INFO  Log:21 - Degree selected
+2019-11-23 03:11:19 INFO  Log:21 - Year Of Study Selected
+2019-11-23 03:11:19 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 03:11:19 INFO  Log:21 - Completion Date submitted
+2019-11-23 03:11:19 INFO  Log:21 - Loan Amount submitted
+2019-11-23 03:11:21 INFO  Log:21 - Employment Income submitted
+2019-11-23 03:11:21 INFO  Log:21 - Other Income Provided
+2019-11-23 03:11:21 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 03:11:21 INFO  Log:21 - Family Income submitted
+2019-11-23 03:11:22 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 03:11:22 INFO  Log:21 - Housing Payment submitted
+2019-11-23 03:11:22 INFO  Log:21 - Citizenship status selected
+2019-11-23 03:11:24 INFO  Log:21 - Profile Details submitted
+2019-11-23 03:11:24 INFO  Log:21 - Date of Birth submitted
+2019-11-23 03:11:25 INFO  Log:21 - Phone Number Submitted
+2019-11-23 03:11:27 INFO  Log:21 - Address Details Submitted
+2019-11-23 03:11:29 INFO  Log:21 - Email tooltip Validated
+2019-11-23 03:11:29 INFO  Log:11 - Test is Starting...
+2019-11-23 03:11:29 INFO  Log:21 - Web URL Launched
+2019-11-23 03:11:33 INFO  Log:21 - Student Loan Tile Selected
+2019-11-23 03:11:35 INFO  Log:21 - Check Rates Selected
+2019-11-23 03:11:38 INFO  Log:21 - Student opted
+2019-11-23 03:11:39 INFO  Log:21 - No, Rates not checked on credible
+2019-11-23 03:11:39 INFO  Log:21 - Not checked rates with other
+2019-11-23 03:11:44 INFO  Log:21 - Institution Name Selected
+2019-11-23 03:11:44 INFO  Log:21 - Degree selected
+2019-11-23 03:11:45 INFO  Log:21 - Year Of Study Selected
+2019-11-23 03:11:45 INFO  Log:21 - Period Of Loan Selected
+2019-11-23 03:11:45 INFO  Log:21 - Completion Date submitted
+2019-11-23 03:11:45 INFO  Log:21 - Loan Amount submitted
+2019-11-23 03:11:46 INFO  Log:21 - Employment Income submitted
+2019-11-23 03:11:47 INFO  Log:21 - Other Income Provided
+2019-11-23 03:11:47 INFO  Log:21 - Other Income Frequency selected
+2019-11-23 03:11:47 INFO  Log:21 - Family Income submitted
+2019-11-23 03:11:47 INFO  Log:21 - Family Income Frequency selected
+2019-11-23 03:11:48 INFO  Log:21 - Housing Payment submitted
+2019-11-23 03:11:48 INFO  Log:21 - Citizenship status selected
+2019-11-23 03:11:50 INFO  Log:21 - Profile Details submitted
+2019-11-23 03:11:50 INFO  Log:21 - Date of Birth submitted
+2019-11-23 03:11:50 INFO  Log:21 - Phone Number Submitted
+2019-11-23 03:11:52 INFO  Log:21 - Address Details Submitted
+2019-11-23 03:11:54 INFO  Log:21 - Password Tooltip Validated

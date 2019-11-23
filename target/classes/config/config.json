@@ -1,0 +1,37 @@
+{
+	"url" :	"https://www.credible.com/?vt_disabled=true",
+	"education":{
+		"schoolName" : "University of California - Los Angeles",
+		"degreeType" : "Bachelors",
+		"fieldOfStudy" : "",
+		"yearOfStudy" : "Junior",
+		"graduationDate": "12/2021",
+		"academicPeriod": "Spring only 2019",
+		"loanAmount": "10000",
+		"email": "checkedratesoncrediblebefore@credible.com"	
+	},
+	"financial":{
+		"employmentIncome": "50000",
+		"otherIncome": "10000",
+		"otherIncomeFrequency": "Annually",
+		"householdIncome": "500",
+		"householdIncomeFrequency": "Monthly",
+		"houseRent": "800",
+		"citizenzipStatus": "US Citizen",
+		"alienID": "CKY123-LIMBO"
+	},
+	"profile":{
+		"firstName": "Great",
+		"middleName": "",
+		"lastName": "CredileProd",
+		"suffix": "",
+		"dateOfBirth": "12/12/1991",
+		"phoneNumber": "1234567890",
+		"address": "1550 Scenic Avenue",
+		"unit": "",
+		"city": "Costa Mesa",
+		"state": "California",
+		"zipCode": "92626",
+		"password": "Passw0rd"
+	}
+}

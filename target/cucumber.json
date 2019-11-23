@@ -1,0 +1,278 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 15758984000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I navigate to Credible Loan Rates Page",
+            "match": {
+              "location": "StudentLoansStepDefs.i_navigate_to_Credible_Loan_Rates_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 211276500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on \"Student Loans\" tile",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Student Loans\"",
+                  "offset": 11
+                }
+              ],
+              "location": "StudentLoansStepDefs.i_click_on_tile(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2451791500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on Get My Loan Rates button",
+            "match": {
+              "location": "StudentLoansStepDefs.i_click_on_Get_My_Loan_Rates_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 6987440100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I select \"I am the student\" option",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"I am the student\"",
+                  "offset": 9
+                }
+              ],
+              "location": "StudentLoansStepDefs.i_select_option(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1918171300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I should be on \"/student-loans/prequal/step/education\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"/student-loans/prequal/step/education\"",
+                  "offset": 15
+                }
+              ],
+              "location": "StudentLoansStepDefs.i_should_be_on(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2019-11-22T15:39:20.052Z",
+        "line": 79,
+        "name": "End to End",
+        "description": "",
+        "id": "student-loan;end-to-end",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 600665600,
+              "status": "passed"
+            },
+            "line": 81,
+            "name": "I select \"No\" for checked rates before on credible",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"No\"",
+                  "offset": 9
+                }
+              ],
+              "location": "StudentLoansStepDefs.i_select_for_checked_rates_before_on_credible(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 275964700,
+              "status": "passed"
+            },
+            "line": 82,
+            "name": "I select \"No\" for check rates with parent or co-signer",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"No\"",
+                  "offset": 9
+                }
+              ],
+              "location": "StudentLoansStepDefs.i_select_for_check_rates_with_parent_or_co_signer(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 9658397200,
+              "status": "passed"
+            },
+            "line": 83,
+            "name": "I provide education details in the Education page",
+            "match": {
+              "location": "StudentLoansStepDefs.i_provide_education_details_in_the_Education_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1097799600,
+              "status": "passed"
+            },
+            "line": 84,
+            "name": "I click on Continue button",
+            "match": {
+              "location": "StudentLoansStepDefs.i_click_on_Continue_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 27792200,
+              "status": "passed"
+            },
+            "line": 85,
+            "name": "I should be on \"/student-loans/prequal/step/financial\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"/student-loans/prequal/step/financial\"",
+                  "offset": 15
+                }
+              ],
+              "location": "StudentLoansStepDefs.i_should_be_on(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3142277000,
+              "status": "passed"
+            },
+            "line": 86,
+            "name": "I provide financial details in the Financial page",
+            "match": {
+              "location": "StudentLoansStepDefs.i_provide_financial_details_in_the_Financial_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 470880800,
+              "status": "passed"
+            },
+            "line": 87,
+            "name": "I click on Continue button in Financial Page",
+            "match": {
+              "location": "StudentLoansStepDefs.i_click_on_Continue_button_in_Financial_Page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 30881100,
+              "status": "passed"
+            },
+            "line": 88,
+            "name": "I should be on \"/student-loans/prequal/step/profile\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"/student-loans/prequal/step/profile\"",
+                  "offset": 15
+                }
+              ],
+              "location": "StudentLoansStepDefs.i_should_be_on(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4844527800,
+              "status": "passed"
+            },
+            "line": 89,
+            "name": "I provide profile details in the Profile Page",
+            "match": {
+              "location": "StudentLoansStepDefs.i_provide_profile_details_in_the_Profile_Page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2542454600,
+              "status": "passed"
+            },
+            "line": 90,
+            "name": "I provide Email and Password details in Log in or Create an Account Tile",
+            "match": {
+              "location": "StudentLoansStepDefs.i_provide_Email_and_Password_details_in_Log_in_or_Create_an_Account_Tile()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@student"
+          },
+          {
+            "name": "@e2e"
+          },
+          {
+            "name": "@regression"
+          },
+          {
+            "name": "@daily-regression"
+          },
+          {
+            "name": "@PROD"
+          },
+          {
+            "name": "@QA"
+          },
+          {
+            "name": "@test"
+          }
+        ]
+      }
+    ],
+    "name": "Student Loan",
+    "description": "  As a subscriber, I can login and manage my account.  Before running these end-to-end scenarios, a call to database is made to reset data for this subscriber.",
+    "id": "student-loan",
+    "keyword": "Feature",
+    "uri": "classpath:features/studentLoan.feature",
+    "tags": []
+  }
+]

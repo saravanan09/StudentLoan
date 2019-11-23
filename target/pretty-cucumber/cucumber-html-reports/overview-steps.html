@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html>
+<head>
+  
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<script src="js/jquery.min.js"></script>
+<script src="js/jquery.tablesorter.min.js"></script>
+<script src="js/Chart.min.js"></script>
+<script src="js/moment.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css"/>
+<link rel="stylesheet" href="css/cucumber.css" type="text/css"/>
+<link rel="stylesheet" href="css/font-awesome.min.css"/>
+<link rel="shortcut icon" href="images/favicon.png"/>
+
+<script>
+$(document).ready(function() {
+    // this will tell tablesorter to try looking for the data-value attribute
+    // if present, it'll sort by that instead
+    // otherwise, it'll sort by the text content of the table cell
+    $("#tablesorter").tablesorter({
+        textAttribute: 'data-value',
+        // ignores the first row of the header, the 'scenario', 'steps', since
+        // sorting those doesn't make sense
+        selectorHeaders: '> thead tr:not(.dont-sort) th',
+        // use a stable sort
+        sortStable: true
+    });
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+  
+<title>Cucumber Reports  - Steps Overview</title>
+
+</head>
+<body>
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navigation">
+  <div class="container-fluid">
+    <div class="collapse navbar-collapse">
+      <p class="navbar-text navbar-left">Cucumber Report</p>
+      <ul class="nav navbar-nav navbar-right">
+                <li role="presentation" ><a href="overview-features.html">Features</a></li>
+        <li role="presentation" ><a href="overview-tags.html">Tags</a></li>
+        <li role="presentation"     class="active" ><a href="overview-steps.html">Steps</a></li>
+                <li role="presentation" ><a href="overview-failures.html">Failures</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+<div class="container-fluid">
+  <div class="col-md-5 col-md-offset-1">
+    
+<table class="table table-bordered" id="build-info">
+  <thead>
+    <tr>
+      <th>Project</th>
+            <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="info">
+      <td>No Name (add projectName to cucumber-reporting.properties)</td>
+            <td>23 Nov 2019, 03:11</td>
+    </tr>
+  </tbody>
+</table>
+
+  </div>
+  <div class="col-md-3 col-md-offset-2">
+      </div>
+</div>
+
+
+<div id="report-lead" class="container-fluid">
+  <div class="col-md-10 col-md-offset-1">
+    <h2>Steps Statistics</h2>
+          <p>The following graph shows step statistics for this build. Below list is based on results.
+ step does not provide information about result then is not listed below.
+ Additionally @Before and @After are not counted because they are part of the scenarios, not steps.</p>
+      </div>
+</div>
+
+<div class="container-fluid" id="report">
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+      <table id="tablesorter" class="stats-table table-hover">
+
+        <thead>
+          <tr class="header">
+            <th>Implementation</th>
+            <th>Occurrences</th>
+            <th>Average duration</th>
+            <th>Max duration</th>
+            <th>Total durations</th>
+            <th>Ratio</th>
+          </tr>
+        </thead>
+
+        <tbody>
+                      <tr>
+              <td class="location">Hooks.after(Scenario)</td>
+              <td>18</td>
+              <td class="duration" data-value="916961">0.000</td>
+              <td class="duration" data-value="916961">0.015</td>
+              <td class="duration" data-value="16505300">0.016</td>
+              <td class="passed">100.00%</td>
+            </tr>
+                      <tr>
+              <td class="location">Hooks.before()</td>
+              <td>18</td>
+              <td class="duration" data-value="7263616">0.007</td>
+              <td class="duration" data-value="7263616">0.091</td>
+              <td class="duration" data-value="130745100">0.130</td>
+              <td class="passed">100.00%</td>
+            </tr>
+                      <tr>
+              <td class="location">StudentLoansStepDefs.i_click_on_Continue_button()</td>
+              <td>18</td>
+              <td class="duration" data-value="297222527">0.297</td>
+              <td class="duration" data-value="297222527">0.384</td>
+              <td class="duration" data-value="5350005500">5.350</td>
+              <td class="failed">94.44%</td>
+            </tr>
+                      <tr>
+              <td class="location">StudentLoansStepDefs.i_click_on_Continue_button_in_Financial_Page()</td>
+              <td>12</td>
+              <td class="duration" data-value="327828458">0.327</td>
+              <td class="duration" data-value="327828458">0.473</td>
+              <td class="duration" data-value="3933941500">3.933</td>
+              <td class="failed">91.67%</td>
+            </tr>
+                      <tr>
+              <td class="location">StudentLoansStepDefs.i_click_on_Get_My_Loan_Rates_button()</td>
+              <td>18</td>
+              <td class="duration" data-value="2129698238">2.129</td>
+              <td class="duration" data-value="2129698238">2.314</td>
+              <td class="duration" data-value="38334568300">38.334</td>
+              <td class="failed">94.44%</td>
+            </tr>
+                      <tr>
+              <td class="location">StudentLoansStepDefs.i_click_on_tile(String)</td>
+              <td>18</td>
+              <td class="duration" data-value="118286172">0.118</td>
+              <td class="duration" data-value="118286172">0.244</td>
+              <td class="duration" data-value="2129151100">2.129</td>
+              <td class="failed">94.44%</td>
+            </tr>
+                      <tr>
+              <td class="location">StudentLoansStepDefs.i_navigate_to_Credible_Loan_Rates_Page()</td>
+              <td>18</td>
+              <td class="duration" data-value="3658600766">3.658</td>
+              <td class="duration" data-value="3658600766">10.974</td>
+              <td class="duration" data-value="65854813800">1:5.854</td>
+              <td class="failed">94.44%</td>
+            </tr>
+                      <tr>
+              <td class="location">StudentLoansStepDefs.i_provide_Email_and_Password_details_in_Log_in_or_Create_an_Account_Tile()</td>
+              <td>5</td>
+              <td class="duration" data-value="2310839380">2.310</td>
+              <td class="duration" data-value="2310839380">2.468</td>
+              <td class="duration" data-value="11554196900">11.554</td>
+              <td class="passed">100.00%</td>
+            </tr>
+                      <tr>
+              <td class="location">StudentLoansStepDefs.i_provide_education_details_in_the_Education_page()</td>
+              <td>12</td>
+              <td class="duration" data-value="5864317808">5.864</td>
+              <td class="duration" data-value="5864317808">6.636</td>
+              <td class="duration" data-value="70371813700">1:10.371</td>
+              <td class="failed">91.67%</td>
+            </tr>
+                      <tr>
+              <td class="location">StudentLoansStepDefs.i_provide_financial_details_in_the_Financial_page()</td>
+              <td>7</td>
+              <td class="duration" data-value="2446871985">2.446</td>
+              <td class="duration" data-value="2446871985">2.637</td>
+              <td class="duration" data-value="17128103900">17.128</td>
+              <td class="passed">100.00%</td>
+            </tr>
+                      <tr>
+              <td class="location">StudentLoansStepDefs.i_provide_in_the_Education_page(String,String,String,String,String,String,String)</td>
+              <td>6</td>
+              <td class="duration" data-value="6466095016">6.466</td>
+              <td class="duration" data-value="6466095016">6.789</td>
+              <td class="duration" data-value="38796570100">38.796</td>
+              <td class="passed">100.00%</td>
+            </tr>
+                      <tr>
+              <td class="location">StudentLoansStepDefs.i_provide_in_the_Financial_page(String,String,String,String,String,String,String,String)</td>
+              <td>5</td>
+              <td class="duration" data-value="2166490120">2.166</td>
+              <td class="duration" data-value="2166490120">2.979</td>
+              <td class="duration" data-value="10832450600">10.832</td>
+              <td class="failed">80.00%</td>
+            </tr>
+                      <tr>
+              <td class="location">StudentLoansStepDefs.i_provide_in_the_Profile_Page(String,String,String,String,String,String,String,String,String,String,String)</td>
+              <td>4</td>
+              <td class="duration" data-value="3659223525">3.659</td>
+              <td class="duration" data-value="3659223525">4.074</td>
+              <td class="duration" data-value="14636894100">14.636</td>
+              <td class="passed">100.00%</td>
+            </tr>
+                      <tr>
+              <td class="location">StudentLoansStepDefs.i_provide_invalid_mail_address_and_validate_tooltip()</td>
+              <td>1</td>
+              <td class="duration" data-value="2076933500">2.076</td>
+              <td class="duration" data-value="2076933500">2.076</td>
+              <td class="duration" data-value="2076933500">2.076</td>
+              <td class="passed">100.00%</td>
+            </tr>
+                      <tr>
+              <td class="location">StudentLoansStepDefs.i_provide_invalid_password_and_validate_tooltip()</td>
+              <td>1</td>
+              <td class="duration" data-value="2477501100">2.477</td>
+              <td class="duration" data-value="2477501100">2.477</td>
+              <td class="duration" data-value="2477501100">2.477</td>
+              <td class="passed">100.00%</td>
+            </tr>
+                      <tr>
+              <td class="location">StudentLoansStepDefs.i_provide_profile_details_in_the_Profile_Page()</td>
+              <td>3</td>
+              <td class="duration" data-value="3442342733">3.442</td>
+              <td class="duration" data-value="3442342733">3.974</td>
+              <td class="duration" data-value="10327028200">10.327</td>
+              <td class="passed">100.00%</td>
+            </tr>
+                      <tr>
+              <td class="location">StudentLoansStepDefs.i_select_for_check_rates_with_parent_or_co_signer(String)</td>
+              <td>18</td>
+              <td class="duration" data-value="149037105">0.149</td>
+              <td class="duration" data-value="149037105">0.182</td>
+              <td class="duration" data-value="2682667900">2.682</td>
+              <td class="failed">94.44%</td>
+            </tr>
+                      <tr>
+              <td class="location">StudentLoansStepDefs.i_select_for_checked_rates_before_on_credible(String)</td>
+              <td>18</td>
+              <td class="duration" data-value="313801194">0.313</td>
+              <td class="duration" data-value="313801194">0.539</td>
+              <td class="duration" data-value="5648421500">5.648</td>
+              <td class="failed">94.44%</td>
+            </tr>
+                      <tr>
+              <td class="location">StudentLoansStepDefs.i_select_option(String)</td>
+              <td>18</td>
+              <td class="duration" data-value="3356140400">3.356</td>
+              <td class="duration" data-value="3356140400">4.737</td>
+              <td class="duration" data-value="60410527200">1:0.410</td>
+              <td class="failed">94.44%</td>
+            </tr>
+                      <tr>
+              <td class="location">StudentLoansStepDefs.i_should_be_on(String)</td>
+              <td>48</td>
+              <td class="duration" data-value="43446266">0.043</td>
+              <td class="duration" data-value="43446266">0.193</td>
+              <td class="duration" data-value="2085420800">2.085</td>
+              <td class="failed">93.75%</td>
+            </tr>
+                  </tbody>
+
+        <tfoot class="total">
+          <tr>
+            <td>20</td>
+            <td>266</td>
+            <td class="duration">1.371</td>
+            <td class="duration">1:10.371</td>
+            <td class="duration">6:4.778</td>
+            <td>Totals</td>
+          </tr>
+        </tfoot>
+
+      </table>
+    </div>
+  </div>
+</div>
+
+
+<nav class="navbar navbar-default" id="footer">
+  <div class="container-fluid">
+    <p class="navbar-text navbar-right">
+        <small>generate Cucumber HTML reports via:&nbsp;</small>
+        <a class="navbar-link" href="https://github.com/jenkinsci/cucumber-reports-plugin">Jenkins Plugin</a> |
+        <a class="navbar-link" href="https://github.com/damianszczepanik/cucumber-reporting">Standalone</a> |
+        <a class="navbar-link" href="https://github.com/damianszczepanik/cucumber-sandwich">Sandwich</a> |
+        <a class="navbar-link" href="https://github.com/damianszczepanik/maven-cucumber-reporting">Maven</a>
+        &nbsp;&nbsp;
+    </p>
+  </div>
+</nav>
+
+</body>
+</html>
