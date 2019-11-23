@@ -1,8 +1,8 @@
 # StudentLoan
 
-This automation was scripted on page object model custom framework with Java/WebDriver/cucumber BDD feature file. You will be able to execute the test, by importing into Eclipse IDE and run it from feature file or Runner class - RunnerTest.java.
+This automation was scripted on page object model custom framework with Java/WebDriver/cucumber BDD feature file. You will be able to execute the test, by importing into Eclipse IDE and run it from feature file or Runner class.
 
-I have used maven dependencies for the required dependencies and webdriver manager dependency for the the chrome driver.
+I have used maven dependencies for the required dependencies and webdriver manager driver dependency.
 
 The folder structure is as follows,
 
