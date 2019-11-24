@@ -1,5 +1,7 @@
 package studentLoans.pageActions;
 
+
+
 import java.io.FileNotFoundException;
 
 import org.openqa.selenium.Alert;
@@ -14,9 +16,9 @@ import studentLoans.pageObjects.LaunchPageObjects;
 
 public class LaunchPageActions {
 
-	private static final LaunchPageObjects launchPage = PageFactory.initElements(DriverHelper.currentDriver(), LaunchPageObjects.class);
-
-	public void navigateURL() throws FileNotFoundException, Exception {
+private static final LaunchPageObjects launchPage = PageFactory.initElements(DriverHelper.currentDriver(), LaunchPageObjects.class);
+	
+	public void navigateURL() throws FileNotFoundException, Exception{
 		try {
 			DriverHelper.loadURL((String) Hooks.properties().get("url"));
 			Log.info("Web URL Launched");
@@ -32,9 +34,9 @@ public class LaunchPageActions {
 			}
 		}
 	}
-
-	public void selectTile(String tile) throws Exception {
-		switch (tile) {
+	
+	public void selectTile(String tile) throws Exception{
+		switch(tile){
 		case "Student Loans":
 			launchPage.SLTile.click();
 			Log.info("Student Loan Tile Selected");
@@ -52,16 +54,16 @@ public class LaunchPageActions {
 			throw new Exception("Invalid Tile");
 		}
 	}
-
-	public void clickLoanRatesBtn() {
+	
+	public void clickLoanRatesBtn(){
 		launchPage.LoanRateBtn.click();
 		DriverHelper.WebPageLoader(2000);
 		DriverHelper.waitForElementToClickable(launchPage.StudentBtn, 30);
 		Log.info("Check Rates Selected");
 	}
-
-	public void clickFormSelectorBtn(String formSelector) throws Exception {
-		switch (formSelector) {
+	
+	public void clickFormSelectorBtn(String formSelector) throws Exception{
+		switch(formSelector){
 		case "I am the co-signer":
 			launchPage.CoSignerBtn.click();
 			Log.info("Co-Signer opted");

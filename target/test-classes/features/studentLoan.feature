@@ -38,11 +38,11 @@ Background:
    	Examples: 
    	| School Name                            | Degree Type            | Field Of Study | Year Of Study                | Graduation Date | Academic Period       | Loan Amount |
    	| University of California - Los Angeles | Bachelors              |                | Junior                       | 12/2021         | Spring only 2019      | 10000       |
-   	| University of Southern California      | Certificate            |                | Freshman                     | 11/2019         | Summer only 2020      | 1000        |
-   	| University of Illinois at Chicago      | Associates             |                | 5th year                     | 11/2029         | Winter only 2019      | 9000000     |
-   	| Arizona State University               | Masters (including MBA)| MBA            | 1st year Grad                | 05/2025         | Fall 2019             | 5000        |
-   	| Arizona State University               | Doctorate              | Medicine       | 3rd year Grad                | 01/2022         | Fall-Spring 2019-2020 | 1000000     |
-   	| Arizona State University               | Post-Doctorate         | Dentistry      | 4th year Grad / Professional | 05/2025         | Spring only 2020      | 5000000     |
+   	| University of Southern California     | Certificate            |                | Freshman                     | 11/2019         | Summer only 2020      | 1000        |
+   	| University of Illinois at Chicago     | Associates             |                | 5th year                     | 11/2029         | Winter only 2019      | 9000000     |
+   	| Arizona State University              | Masters (including MBA)| MBA            | 1st year Grad                | 05/2025         | Fall 2019             | 5000        |
+   	| Arizona State University              | Doctorate              | Medicine       | 3rd year Grad                | 01/2022         | Fall-Spring 2019-2020 | 1000000     |
+   	| Arizona State University              | Post-Doctorate         | Dentistry      | 4th year Grad / Professional | 05/2025         | Spring only 2020      | 5000000     |
    	
   @student @financial @priority-2
   @PROD @QA
@@ -91,7 +91,7 @@ Background:
    	   	
   @student @priority-3
   @PROD @QA
-  @test @email @tooltip
+  @test @email
   Scenario: Mail Tooltip Validation
 
     Then I select "No" for checked rates before on credible
@@ -107,7 +107,7 @@ Background:
    	
   @student @priority-3
   @PROD @QA
-  @test @password @tooltip
+  @test @password
   Scenario: Password Tooltip Validation
 
     Then I select "No" for checked rates before on credible
@@ -120,63 +120,3 @@ Background:
    	Then I should be on "/student-loans/prequal/step/profile"
    	When I provide profile details in the Profile Page
    	Then I provide invalid password and validate tooltip
-   	
-  @student @priority-3
-  @PROD @QA
-  @test @dobTooltip @tooltip
-  Scenario Outline: DOB Tooltip Validation
-
-    Then I select "No" for checked rates before on credible
-    Then I select "No" for check rates with parent or co-signer
-   	And I provide education details in the Education page
-   	Then I click on Continue button
-   	Then I should be on "/student-loans/prequal/step/financial"   	
-   	Then I provide financial details in the Financial page
-   	Then I click on Continue button in Financial Page
-   	Then I should be on "/student-loans/prequal/step/profile"
-   	Then I provide invalid dob "<DOB>"
-
-	Examples:
-   	| DOB |
-   	| 11/23/1890    |
-   	| 05/12/2050    |
-   	
-  @student @priority-3
-  @PROD @QA
-  @test @Date @tooltip
-  Scenario Outline: Date Tooltip Validation
-
-    Then I select "No" for checked rates before on credible
-    Then I select "No" for check rates with parent or co-signer
-   	And I provide invalid completion year "<month/year>"
-   	
-   	Examples:
-   	| month/year |
-   	| 11/1991    |
-   	| 05/2050    |
-   	
-  @student @priority-3
-  @PROD @QA
-  @test @LoanAmount @tooltip
-  Scenario Outline: Loan Amount Tooltip Validation
-
-    Then I select "No" for checked rates before on credible
-    Then I select "No" for check rates with parent or co-signer
-   	And I provide invalid loan amount "<amount>"
-   	
-   	Examples:
-   	| amount |
-   	| 100    |
-   	| 999    |
-   	
-  @student @priority-3
-  @PROD @QA
-  @test @financeTooltip @tooltip
-  Scenario: Financial Page Tooltip Validation
-
-    Then I select "No" for checked rates before on credible
-    Then I select "No" for check rates with parent or co-signer
-    And I provide education details in the Education page
-   	Then I click on Continue button
-   	Then I should be on "/student-loans/prequal/step/financial"
-   	And I validate employment income and housing payment field

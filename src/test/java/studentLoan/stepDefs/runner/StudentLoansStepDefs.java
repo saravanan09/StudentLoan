@@ -1,11 +1,10 @@
 package studentLoan.stepDefs.runner;
 
 import java.io.FileNotFoundException;
-import java.text.ParseException;
-
 import org.json.JSONException;
 
 import studentLoan.utils.Hooks;
+
 import studentLoans.pageActions.PageNavigation;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -119,7 +118,7 @@ public class StudentLoansStepDefs {
 	}
 
 	@Then("I provide invalid mail address and validate tooltip")
-	public void i_provide_invalid_mail_address_and_validate_tooltip() throws JSONException, FileNotFoundException, Exception {
+	public void i_provide_invalid_mail_address_and_validate_tooltip() {
 		PageNavigation.ProfilePage().emailValidation();
 	}
 	
@@ -127,24 +126,5 @@ public class StudentLoansStepDefs {
 	public void i_provide_invalid_password_and_validate_tooltip() throws JSONException, FileNotFoundException, Exception {
 		PageNavigation.ProfilePage().passwordValidation();
 	}
-	
-	@Given("I provide invalid completion year {string}")
-	public void i_provide_invalid_completion_year(String monthYear) throws ParseException {
-	    PageNavigation.EducationPage().dateTooltipValidation(monthYear);
-	}
 
-	@Then("I provide invalid loan amount {string}")
-	public void i_provide_invalid_loan_amount(String amount) {
-	   PageNavigation.EducationPage().loanAmountTooltipValidation(amount);
-	}
-	
-	@Then("I validate employment income and housing payment field")
-	public void i_validate_employment_income_and_housing_payment_field() throws JSONException, FileNotFoundException, Exception {
-	    PageNavigation.FinancialPage().financeFieldValidation();
-	}
-
-	@Then("I provide invalid dob {string}")
-	public void i_provide_invalid_dob(String dob) {
-	    PageNavigation.ProfilePage().dobValidation(dob);
-	}
 }
