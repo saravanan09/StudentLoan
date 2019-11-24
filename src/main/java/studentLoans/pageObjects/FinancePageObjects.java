@@ -41,4 +41,18 @@ public class FinancePageObjects {
 	
 	@FindBy(how = How.NAME, using = "borrower_alien_id")
     public WebElement AlienID;
+	
+	@FindBy(how = How.XPATH, using = "//*[contains(text(),'How do I calculate this?')]")
+    public WebElement HousingLink;
+	
+	@FindBy(how = How.XPATH, using = "//*[contains(text(),'What should I include?')]")
+    public WebElement IncomeLink;
+	
+	@FindBy(how = How.XPATH, using = "//*[@name='borrower_income_yearly']//following-sibling::div")
+    public WebElement IncomeToolTip;
+	
+	@FindBy(how = How.XPATH, using = "//*[@name='borrower_housing_payment']//following-sibling::div")
+    public WebElement HousingToolTip;
+	
+	
 }

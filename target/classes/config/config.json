@@ -5,7 +5,7 @@
 		"degreeType" : "Bachelors",
 		"fieldOfStudy" : "",
 		"yearOfStudy" : "Junior",
-		"graduationDate": "12/2021",
+		"graduationDate": "01/2025",
 		"academicPeriod": "Spring only 2019",
 		"loanAmount": "10000",
 		"email": "checkedratesoncrediblebefore@credible.com"	
@@ -32,6 +32,7 @@
 		"city": "Costa Mesa",
 		"state": "California",
 		"zipCode": "92626",
-		"password": "Passw0rd"
+		"password": "Passw0rd",
+		"email": "Great112217103@.com"
 	}
 }

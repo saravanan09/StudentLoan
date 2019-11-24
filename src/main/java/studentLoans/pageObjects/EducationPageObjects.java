@@ -67,4 +67,16 @@ public class EducationPageObjects {
 	
 	@FindBy(how = How.ID, using = "c145_email")
     public WebElement Email;
+	
+	@FindBy(how = How.XPATH, using = "//*[contains(text(),'How do I calculate?')]")
+    public WebElement LoanAmountLink;
+	
+	@FindBy(how = How.XPATH, using = "//*[contains(text(),\"What if I'm not sure?\")]")
+    public WebElement DateLink;
+	
+	@FindBy(how = How.XPATH, using = "//*[@name='education_completion_date']//following-sibling::div")
+    public WebElement DateToolTip;
+	
+	@FindBy(how = How.XPATH, using = "//*[@name='education_requested_loan_amount']//following-sibling::div")
+    public WebElement AmountToolTip;
 }

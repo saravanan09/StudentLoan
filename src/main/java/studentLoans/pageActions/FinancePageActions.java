@@ -1,13 +1,18 @@
 package studentLoans.pageActions;
 
+import static org.assertj.core.api.Assertions.assertThat;
+
+import java.io.FileNotFoundException;
 import java.util.List;
 
+import org.json.JSONException;
 import org.openqa.selenium.By;
 import org.openqa.selenium.InvalidArgumentException;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
 
 import studentLoan.utils.DriverHelper;
+import studentLoan.utils.Hooks;
 import studentLoan.utils.Log;
 import studentLoans.pageObjects.FinancePageObjects;
 
@@ -105,5 +110,22 @@ public class FinancePageActions {
 	public void ClickContinueBtn(){
 		DriverHelper.waitForElementToClickable(financePage.ContinueBtn, 30);
 		financePage.ContinueBtn.click();
+	}
+	
+	public void financeFieldValidation() throws JSONException, FileNotFoundException, Exception{
+		financePage.EmploymentIncome.sendKeys(Hooks.properties().getJSONObject("financial").getString("employmentIncome"));
+		financePage.EmploymentIncome.clear();
+		financePage.HousingLink.click();
+		financePage.EmploymentIncome.click();
+		DriverHelper.waitForElement(financePage.IncomeToolTip, 30);
+		assertThat(financePage.IncomeToolTip.getText()).isEqualTo("Please complete this field");
+		
+		financePage.HousingPayment.sendKeys(Hooks.properties().getJSONObject("financial").getString("houseRent"));
+		financePage.HousingPayment.clear();
+		financePage.IncomeLink.click();
+		financePage.HousingPayment.click();
+		DriverHelper.waitForElement(financePage.HousingToolTip, 30);
+		assertThat(financePage.HousingToolTip.getText()).isEqualTo("This is required by lenders to assess your credit-worthiness");
+		
 	}
 }
