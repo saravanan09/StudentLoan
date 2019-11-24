@@ -88,4 +88,7 @@ public class ProfilePageObjects {
 	
 	@FindBy(how = How.XPATH, using = "//*[@class='password-validation-tooltip']//following::li[contains(@class,'min-eight-chars-requirement valid')]")
     public WebElement PasswordToolTipMinCharValid;
+	
+	@FindBy(how = How.XPATH, using = "//*[@name='borrower_dob']//following-sibling::div")
+    public WebElement DOBToolTip;
 }
